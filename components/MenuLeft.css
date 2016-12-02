@@ -1,0 +1,15 @@
+.c-menu-left_--_ {
+  border: 1px solid #c9c9c9;
+  width: 230px;
+  text-align: left;
+  float: left; }
+  .c-menu-left_--_ .separator_--_ {
+    border-bottom: 1px solid #eaeaea; }
+  .c-menu-left_--_ .item_--_ {
+    margin: 20px 12px 10px;
+    width: 162px; }
+    .c-menu-left_--_ .item_--_ a {
+      text-decoration: none;
+      color: #898989; }
+
+/*# sourceMappingURL=MenuLeft.css.map */

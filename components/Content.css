@@ -1,0 +1,41 @@
+.c-content_--_ .primary-title_--_ {
+  font-size: 20px;
+  font-weight: lighter;
+  color: #ec007a;
+  text-align: left;
+  border-bottom: 1px solid #c9c9c9;
+  margin-right: 46px;
+  padding-bottom: 20px; }
+.c-content_--_ p {
+  font-size: 16px;
+  font-weight: normal;
+  color: #898989; }
+.c-content_--_ .col-6_--_ {
+  width: 55%; }
+.c-content_--_ .col-3_--_ {
+  width: 15%; }
+.c-content_--_ .floatLeft {
+  float: left; }
+  .c-content_--_ .floatLeft img {
+    border-radius: 8px; }
+.c-content_--_ .content-txt_--_ {
+  width: 75%;
+  text-align: left;
+  margin-left: 30px; }
+.c-content_--_ .bread_--_ {
+  text-align: left;
+  margin-left: 26px;
+  margin-top: 40px; }
+.c-content_--_ .box_--_ {
+  border: 1px solid #ec007a;
+  width: 160px;
+  height: 148px;
+  margin: 28px;
+  padding: 11px; }
+  .c-content_--_ .box_--_ img {
+    width: 46px;
+    margin-top: 8px; }
+.c-content_--_ .fix_--_ {
+  padding-right: 72px; }
+
+/*# sourceMappingURL=Content.css.map */

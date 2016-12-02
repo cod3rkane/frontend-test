@@ -2,6 +2,70 @@ body {
   margin: 0;
   padding: 0; }
 
+.app footer {
+  clear: both; }
+  .app footer .center-table_--_ {
+    display: table;
+    margin: 0 auto; }
+  .app footer .all-thing_--_ {
+    font-size: 13px;
+    font-weight: bold;
+    color: #898989; }
+  .app footer .h2Title {
+    color: #898989;
+    font-size: 20px;
+    font-weight: normal; }
+  .app footer .txt-footer_--_ {
+    font-size: 13px;
+    font-weight: 600;
+    color: #898989;
+    background-color: #c9c9c9;
+    padding: 30px 0 80px; }
+    .app footer .txt-footer_--_ div.msg_--_ {
+      width: 510px;
+      margin: 0 auto; }
+  .app footer .menuFooter1 {
+    list-style: none;
+    padding: 0;
+    height: 128px;
+    width: 272px; }
+    .app footer .menuFooter1 li {
+      color: #898989;
+      font-size: 13px;
+      font-weight: normal;
+      width: 125px;
+      display: inline-block;
+      margin: 8px 0; }
+  .app footer .menuFooter3 {
+    list-style: none;
+    padding: 0;
+    height: 100%;
+    margin-top: 0;
+    width: 272px; }
+    .app footer .menuFooter3 li {
+      color: #898989;
+      font-size: 13px;
+      font-weight: normal;
+      width: 125px;
+      display: inline-block;
+      margin: 8px 0; }
+  .app footer .fMenu {
+    display: inline-block;
+    vertical-align: top; }
+  .app footer .menuFooter12 {
+    list-style: none;
+    padding: 0;
+    height: 128px;
+    width: 272px; }
+    .app footer .menuFooter12 li {
+      color: #898989;
+      font-size: 13px;
+      font-weight: normal;
+      width: 125px;
+      margin: 8px 0; }
+  .app footer .subFooter {
+    background-color: #eeeeee; }
+
 .container_--_ {
   max-width: 80%;
   margin: 0 auto; }
@@ -11,9 +75,37 @@ body {
 
 .col_--_ {
   display: inline-block;
-  vertical-align: middle; }
+  vertical-align: top; }
 
 .float-right_--_ {
   float: right; }
+
+.text-center_--_ {
+  text-align: center; }
+
+.m-l-15_--_ {
+  margin-left: 15px; }
+
+.m-r-15_--_ {
+  margin-right: 15px; }
+
+.m-t-40_--_ {
+  margin-top: 45px; }
+
+.m-t-20_--_ {
+  margin-top: 20px; }
+
+.m-l-30 {
+  margin-left: 30px; }
+
+.m-b-20_--_ {
+  margin-bottom: 20px; }
+
+.m-b-40_--_ {
+  margin-bottom: 40px; }
+
+.border-top-c9_--_ {
+  border-top: 1px solid #c9c9c9;
+  padding: 15px 0; }
 
 /*# sourceMappingURL=App.css.map */

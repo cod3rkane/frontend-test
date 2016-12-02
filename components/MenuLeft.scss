@@ -1,0 +1,24 @@
+.c-menu-left_--_
+{
+  border: 1px solid #c9c9c9;
+  width: 230px;
+  text-align: left;
+  float: left;
+
+  .separator_--_
+  {
+    border-bottom: 1px solid #eaeaea;
+  }
+
+  .item_--_
+  {
+    margin: 20px 12px 10px;
+    width: 162px;
+
+    a
+    {
+      text-decoration: none;
+      color: #898989;
+    }
+  }
+}
