@@ -1,0 +1,28 @@
+.c-top-bar_--_
+{
+  padding: 10px 0;
+  background-color: #eeeeee;
+  border: 1px solid #c9c9c9;
+
+  .logo-wrapper
+  {
+    margin-right: 160px;
+  }
+
+  button.btn
+  {
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #f7941e;
+    border: 0;
+    width: 158px;
+    height: 34px;
+    border-radius: 3px;
+    color: #fff;
+
+    &:hover
+    {
+      cursor: pointer;
+    }
+  }
+}

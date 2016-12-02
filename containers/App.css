@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+.container_--_ {
+  max-width: 80%;
+  margin: 0 auto; }
+
+.row_--_ {
+  width: 100%; }
+
+.col_--_ {
+  display: inline-block;
+  vertical-align: middle; }
+
+.float-right_--_ {
+  float: right; }
+
+/*# sourceMappingURL=App.css.map */
